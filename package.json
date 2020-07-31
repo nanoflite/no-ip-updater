@@ -1,0 +1,17 @@
+{
+  "name": "no-ip-updater",
+  "version": "1.0.0",
+  "description": "Simple no-ip updater to use behind a router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pm2 start index.js --name no-ip-updater",
+    "stop": "pm2 stop no-ip-updater"
+  },
+  "keywords": [],
+  "author": "Johan Van den Brande",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^4.4.0"
+  }
+}
