@@ -1,7 +1,12 @@
 {
-  "name": "no-ip-updater",
+  "name": "@nanoflite/no-ip-updater",
   "version": "1.0.0",
   "description": "Simple no-ip updater to use behind a router.",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/nanoflite/no-ip-updater.git"
+  },
+  "homepage": "https://github.com/nanoflite/no-ip-updater",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
