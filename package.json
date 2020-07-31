@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Johan Van den Brande",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "pm2": "^4.4.0"
   }
